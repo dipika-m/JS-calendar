@@ -1,7 +1,7 @@
 # JS-calendar
 Implementation of a calendar using raw JS only
 
-Using only raw JavaScript Create a Calendar class that renders a calendar with the following requirements:
+using JavaScript a Calendar class is created that renders a calendar with the following requirements:
 
 * User can change months with the arrow icons and keyboard keys
 * The current day is highlighted on calendar
